@@ -8,23 +8,23 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\buidu\\.nuget\\packages\\": {}
+    "C:\\Users\\Acer Nitro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# classroom\\Demo\\Music\\Music\\Music.csproj",
+      "projectUniqueName": "C:\\Users\\Acer Nitro\\source\\repos\\Demo\\Music\\Music\\Music.csproj",
       "projectName": "Music",
-      "projectPath": "D:\\C# classroom\\Demo\\Music\\Music\\Music.csproj",
-      "packagesPath": "C:\\Users\\buidu\\.nuget\\packages\\",
-      "outputPath": "D:\\C# classroom\\Demo\\Music\\Music\\obj\\",
+      "projectPath": "C:\\Users\\Acer Nitro\\source\\repos\\Demo\\Music\\Music\\Music.csproj",
+      "packagesPath": "C:\\Users\\Acer Nitro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Acer Nitro\\source\\repos\\Demo\\Music\\Music\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\buidu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Acer Nitro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows"
+        "net5.0-windows7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -51,11 +51,28 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.12, 5.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -64,7 +81,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

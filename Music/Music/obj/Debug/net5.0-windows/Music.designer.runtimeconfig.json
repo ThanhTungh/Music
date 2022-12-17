@@ -6,8 +6,8 @@
       "version": "5.0.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\buidu\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\buidu\\.nuget\\packages"
+      "C:\\Users\\Acer Nitro\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Acer Nitro\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

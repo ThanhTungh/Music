@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eROaq73hkwQ8kXYnHioEDoxAHsROHTYW3s76tZHlFUZQWRT9rLNMx9XA54TiPc8/8HNpFWoszPvUzSB7gFZnWg==",
+  "dgSpecHash": "MG2b5IsIEsiClfIOAP9hD9u3kuCWuCRB8f/XEmzxmMJROzhnJyZS/UGzwT5cP/fsukGVv7RXHTDRZwxwvDMa5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer Nitro\\source\\repos\\Demo\\Music\\Music\\Music.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Acer Nitro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
-    "C:\\Users\\Acer Nitro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Acer Nitro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Acer Nitro\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\C# classroom\\Demo\\Music\\Music\\Music.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

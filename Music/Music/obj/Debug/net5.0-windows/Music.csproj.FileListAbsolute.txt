@@ -16,3 +16,12 @@ C:\Users\Acer Nitro\source\repos\Demo\Music\Music\obj\Debug\net5.0-windows\Music
 C:\Users\Acer Nitro\source\repos\Demo\Music\Music\obj\Debug\net5.0-windows\ref\Music.dll
 C:\Users\Acer Nitro\source\repos\Demo\Music\Music\obj\Debug\net5.0-windows\Music.pdb
 C:\Users\Acer Nitro\source\repos\Demo\Music\Music\obj\Debug\net5.0-windows\Music.genruntimeconfig.cache
+D:\C# classroom\Demo\Music\Music\obj\Debug\net5.0-windows\Music.csproj.AssemblyReference.cache
+D:\C# classroom\Demo\Music\Music\obj\Debug\net5.0-windows\Music.Form1.resources
+D:\C# classroom\Demo\Music\Music\obj\Debug\net5.0-windows\Music.csproj.GenerateResource.cache
+D:\C# classroom\Demo\Music\Music\obj\Debug\net5.0-windows\Music.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# classroom\Demo\Music\Music\obj\Debug\net5.0-windows\Music.AssemblyInfoInputs.cache
+D:\C# classroom\Demo\Music\Music\obj\Debug\net5.0-windows\Music.AssemblyInfo.cs
+D:\C# classroom\Demo\Music\Music\obj\Debug\net5.0-windows\Music.csproj.CoreCompileInputs.cache
+D:\C# classroom\Demo\Music\Music\obj\Debug\net5.0-windows\Music.dll
+D:\C# classroom\Demo\Music\Music\obj\Debug\net5.0-windows\Music.pdb
